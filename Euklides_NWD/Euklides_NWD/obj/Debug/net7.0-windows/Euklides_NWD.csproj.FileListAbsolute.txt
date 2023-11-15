@@ -1,0 +1,16 @@
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\bin\Debug\net7.0-windows\Euklides_NWD.exe
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\bin\Debug\net7.0-windows\Euklides_NWD.deps.json
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\bin\Debug\net7.0-windows\Euklides_NWD.runtimeconfig.json
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\bin\Debug\net7.0-windows\Euklides_NWD.dll
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\bin\Debug\net7.0-windows\Euklides_NWD.pdb
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\Euklides_NWD.Form1.resources
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\Euklides_NWD.csproj.GenerateResource.cache
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\Euklides_NWD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\Euklides_NWD.AssemblyInfoInputs.cache
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\Euklides_NWD.AssemblyInfo.cs
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\Euklides_NWD.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\Euklides_NWD.dll
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\refint\Euklides_NWD.dll
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\Euklides_NWD.pdb
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\Euklides_NWD.genruntimeconfig.cache
+C:\Users\Student\Source\Repos\4aEP-Damian-M\Euklides_NWD\Euklides_NWD\obj\Debug\net7.0-windows\ref\Euklides_NWD.dll
